@@ -1,4 +1,4 @@
-## SimpleWebBrowser Project
+## SimpleWebBrowser Project using C#
 
 ### Introduction
 SimpleWebBrowser is a custom-built, user-friendly web browser designed in C#. It incorporates key features like browsing history, favorites links, and a bulk download feature, offering a balanced and efficient browsing experience.
