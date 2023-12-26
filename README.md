@@ -3,6 +3,10 @@
 ### Introduction
 SimpleWebBrowser is a custom-built, user-friendly web browser designed in C#. It incorporates key features like browsing history, favorites links, and a bulk download feature, offering a balanced and efficient browsing experience.
 
+![Снимок экрана 26 12 2023 в 13 17 04](https://github.com/IliaSvetlichnyi/SimpleWebBrowserC-/assets/132441572/3a1b9608-b94e-412c-9ed2-dab87520aa97)
+
+
+
 ### Design Considerations
 - **GUI Design**: Utilizes the GTK toolkit for robust interface design and modal dialogs for effective user interaction.
 - **Data Structures**: Employs lists and key-value pairs for efficient tracking of browsing history and managing favorites.
